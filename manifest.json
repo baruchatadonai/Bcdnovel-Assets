@@ -2,7 +2,7 @@
 {
   "name": "Bcdnovels",
   "short_name": "Bnovs",
-  "start_url": "https://www.bcdnovel.xyz",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
